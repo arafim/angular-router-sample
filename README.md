@@ -1,4 +1,4 @@
-# Angular Route
+# Angular Route -- https://angular.io/guide/router-tutorial
 ng new angular-router-sample
 cd angular-router-sample
 ng generate component crisis-list
